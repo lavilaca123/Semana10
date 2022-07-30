@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\lugar_fila.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\lugar_fila.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_principal.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\nav_header_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_update_lugar.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\fragment_update_lugar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_lugar.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\fragment_lugar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_principal.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\activity_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_lugar.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\fragment_add_lugar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_principal.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\content_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_principal.xml",
+        "source": "C:\\Users\\Luis\\Desktop\\Universidad\\dispositivos moviles\\ultimo codigo S10\\sin modificiar\\Lugares_v2\\app\\src\\main\\res\\layout\\app_bar_principal.xml"
+    }
+]
